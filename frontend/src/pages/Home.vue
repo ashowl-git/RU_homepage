@@ -7,12 +7,12 @@
           <div class="row items-center">
             <div class="col-lg-6 col-md-12">
               <h1 class="hero-title">
-                차세대 지능형 건물<br>
-                <span class="text-primary">에너지 & 환경 관리</span><br>
-                연구소
+                EAN테크놀로지<br>
+                <span class="text-primary">부설 기술연구소</span><br>
+                혁신과 기술의 미래
               </h1>
               <p class="hero-subtitle">
-                AI, IoT, 머신러닝 기술을 통한 스마트 빌딩 혁신
+                첨단 기술 연구와 개발을 통한 차세대 솔루션 창출
               </p>
               <div class="hero-buttons q-mt-xl">
                 <q-btn 

@@ -55,7 +55,7 @@ const initializeDatabase = async () => {
 // 기본 라우트
 app.get('/', (req, res) => {
   res.json({
-    message: '이안텍 기업부설 연구소 API 서버',
+    message: 'EAN테크놀로지 부설 기술연구소 API 서버',
     version: '1.0.0',
     status: 'running',
     database: 'PostgreSQL',

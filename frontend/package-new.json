@@ -1,7 +1,7 @@
 {
   "name": "eantec-research-frontend",
   "version": "1.0.0",
-  "description": "이안텍 기업부설 연구소 홈페이지 Frontend",
+  "description": "EAN테크놀로지 부설 기술연구소 홈페이지 Frontend",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -16,7 +16,7 @@
               <div class="contact-info">
                 <div class="contact-item q-mb-md">
                   <q-icon name="business" class="q-mr-sm" />
-                  <span>이안텍 기업부설 연구소</span>
+                  <span>EAN테크놀로지 부설 기술연구소</span>
                 </div>
                 <div class="contact-item q-mb-md">
                   <q-icon name="location_on" class="q-mr-sm" />

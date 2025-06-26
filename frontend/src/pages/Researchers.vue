@@ -3,7 +3,7 @@
     <div class="page-header">
       <div class="container">
         <h1 class="page-title">연구진</h1>
-        <p class="page-subtitle">이안텍 기업부설 연구소 연구진을 소개합니다</p>
+        <p class="page-subtitle">EAN테크놀로지 부설 기술연구소 연구진을 소개합니다</p>
       </div>
     </div>
     
