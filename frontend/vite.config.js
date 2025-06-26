@@ -9,20 +9,13 @@ export default defineConfig({
       template: { transformAssetUrls }
     }),
     quasar({
-      sassVariables: 'src/quasar-variables.sass'
+      sassVariables: 'src/styles/quasar-variables.sass'
     })
   ],
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
     },
-  },
-  css: {
-    preprocessorOptions: {
-      sass: {
-        additionalData: `@import "@/quasar-variables.sass"`
-      }
-    }
   },
   server: {
     port: 8080,

@@ -220,7 +220,10 @@ body {
   border-top: 1px solid var(--gray-100);
   margin-top: var(--space-4);
   padding-top: var(--space-4);
-}  font-size: var(--text-sm);
+}
+
+.project-card__meta {
+  font-size: var(--text-sm);
   font-weight: 500;
   margin-bottom: var(--space-3);
 }
